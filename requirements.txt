@@ -1,0 +1,7 @@
+matplotlib==3.4.3 
+numpy==1.21.2
+#python==3.9.6
+scikit-image==0.18.3 
+scipy==1.7.1 
+czifile==2019.7.2
+pip==21.2.4
